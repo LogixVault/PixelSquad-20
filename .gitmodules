@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/LogixVault/engine
+[submodule "ui"]
+	path = ui
+	url = https://github.com/LogixVault/ui
